@@ -1,0 +1,6 @@
+a,b = input().split('.')
+a = int(a)
+b = int(b)
+a = str(a)
+b = str(b)
+print("{}.{}".format(b,a))
